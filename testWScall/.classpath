@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/dicarta_log4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/webservices-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/axis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/axis-ant.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/saaj.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/wsdl4j-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/isdk/isdk/isdk/jars/axis/wsif.jar"/>
+	<classpathentry kind="lib" path="C:/Users/IBM_ADMIN/Desktop/Bappa/emptoris/WS Call POC code/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
