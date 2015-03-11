@@ -44,8 +44,9 @@ public class TestInternalPartySet {
         String userId = "arkgoswa";
         String password = "Viperstrikes@060";
         String contractUuid = "231614dd9ebf4bc48755c27d3ca402e7";
-        
+        //Updated for Git
      
+        
         String internalParty_ID="d9c5fea8643b424e86cd4983ef4271ed";
         internalPartySetTest(hostUrl, userId, password, contractUuid,internalParty_ID);
 
